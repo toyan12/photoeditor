@@ -1,5 +1,6 @@
 package photoeditor;
 
-public class Main {
-
+public class Main 
+{
+	
 }
